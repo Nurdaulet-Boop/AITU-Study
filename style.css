@@ -1,0 +1,505 @@
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 450;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 550;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 550;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+:root{--blue:#3156d8;--navy:#17264c;--text:#26344e;--muted:#6b7589;--line:#e7eaf0;--bg:#f7f8fb;--light:#edf2ff;--green:#237a57;--red:#b74750}*{box-sizing:border-box}body{margin:0;font-family:'DM Sans',Arial,sans-serif;color:var(--text);font-size:16px;background:var(--bg)}button,input,select{font:inherit}button,a,select{ -webkit-tap-highlight-color:transparent}button,a{transition:background .15s,box-shadow .15s,transform .15s}button{cursor:pointer}button:disabled{cursor:not-allowed}a{color:inherit;text-decoration:none}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #96afff;outline-offset:3px}svg{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}.sidebar{position:fixed;width:242px;inset:0 auto 0 0;background:#fff;border-right:1px solid var(--line);display:flex;flex-direction:column;padding:33px 20px;z-index:5}.brand{display:flex;align-items:center;gap:11px;padding:0 12px;font-family:Manrope,Arial;font-size:23px;font-weight:800;letter-spacing:-1px;color:var(--navy)}.brand-icon{background:var(--blue);color:#fff;border-radius:10px;padding:10px;display:flex}.brand-icon svg{width:23px;height:23px}.brand-sub{font-size:11px;text-transform:uppercase;letter-spacing:1.65px;color:#8b94a7;margin:17px 13px 35px}.nav-label{font-size:11px;letter-spacing:1.5px;font-weight:700;color:#939caf;padding:0 16px;margin-bottom:12px}.nav-item{display:flex;align-items:center;gap:13px;padding:14px 16px;margin:5px 0;border-radius:8px;color:#697487;font-size:14px;font-weight:550}.nav-item:hover{background:#f5f7fc}.nav-item.active{background:#edf2ff;color:var(--blue);font-weight:700}.sidebar-bottom{margin-top:auto}.sidebar-note{background:#f7f9fd;border:1px solid var(--line);border-radius:10px;padding:16px;margin:25px 5px;color:#697487;font-size:12px;line-height:1.65}.sidebar-note strong{display:block;color:var(--navy);font-size:13px;margin:7px 0 3px}.sidebar-note svg{color:var(--blue)}.shell{margin-left:242px}.topbar{height:88px;border-bottom:1px solid var(--line);background:white;display:flex;align-items:center;padding:0 45px;gap:25px;position:relative;z-index:4}.searchbox{display:flex;align-items:center;gap:11px;color:#8590a4;position:relative;max-width:420px;flex:1}.searchbox input{width:100%;border:0;background:none;outline:none;font-size:14px;color:var(--text);padding:12px 0}.searchbox kbd{border:1px solid var(--line);border-radius:5px;font-family:inherit;font-size:11px;padding:3px 5px;white-space:nowrap}.top-right{margin-left:auto;display:flex;align-items:center;gap:22px}.iconbtn{border:0;background:none;color:#718096;display:inline-flex;align-items:center;justify-content:center;padding:8px;border-radius:8px}.iconbtn:hover{background:var(--light)}.lang{border:0;background:white;color:#627087;font-size:13px;max-width:65px}.avatar{background:#eaf0ff;color:#3156c5;display:grid;place-items:center;width:37px;height:37px;border-radius:50%;font-weight:700;font-size:13px;border:1px solid #d7e0ff}.divider{height:28px;width:1px;background:var(--line)}main{max-width:1450px;margin:auto;padding:37px 45px 28px}.eyebrow{font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:#657ba4;font-weight:700;margin:0 0 13px}h1,h2,h3,h4{font-family:Manrope,Arial,sans-serif;color:var(--navy);margin:0;font-weight:750}h1{font-size:32px;letter-spacing:-1.1px;line-height:1.35}h2{font-size:21px;letter-spacing:-.55px}h3{font-size:19px;line-height:1.45;letter-spacing:-.4px}p{line-height:1.65}.sub{color:var(--muted);font-size:14px;line-height:1.75;margin:9px 0 0}.hero{background:#eef3ff;border:1px solid #e2e9fb;border-radius:14px;padding:29px 31px;display:flex;align-items:center;justify-content:space-between;gap:30px;margin-bottom:34px}.hero h1{max-width:490px;font-size:32px}.hero p{max-width:530px}.hero-tag{display:inline-flex;align-items:center;gap:7px;color:#4f68a1;background:#fff9;border:1px solid #dbe4fb;padding:6px 10px;border-radius:5px;font-size:11px;letter-spacing:.5px;margin-bottom:12px}.hero-aside{min-width:180px;border-left:1px solid #d6e0f8;padding:4px 0 4px 28px;margin-right:6px;display:grid;gap:17px}.hero-aside div{display:flex;align-items:center;gap:12px;font-size:13px;color:#627497}.hero-aside svg{color:#5578d5;width:18px}.section-head{display:flex;justify-content:space-between;align-items:center;margin:29px 0 17px;gap:15px}.section-head h2 small{font:500 12px 'DM Sans';color:#8993a3;margin-left:10px}.text-link{color:var(--blue);font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:7px}.text-link svg{width:16px}.course-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}.course-card{background:white;border:1px solid var(--line);border-radius:12px;padding:24px;box-shadow:0 3px 7px #1a335004;position:relative}.course-card:hover{border-color:#c5d2f2;box-shadow:0 5px 20px #1b335009}.course-card-top{display:flex;justify-content:space-between;align-items:start;margin-bottom:18px}.course-icon{display:grid;place-items:center;background:#edf1ff;color:#5370d2;width:51px;height:51px;border-radius:12px}.course-icon svg{width:28px;height:28px}.course-icon.english{background:#e9f5f3;color:#4d8e84}.badge{display:inline-flex;align-items:center;gap:5px;padding:4px 8px;border-radius:5px;font-size:11px;font-weight:600;color:#347d64;background:#eff8f2}.badge.gray{background:#f0f2f5;color:#7e8899}.category{color:#8a93a3;font-size:10px;text-transform:uppercase;font-weight:700;letter-spacing:1.2px;margin-bottom:7px}.course-card .sub{font-size:13px;min-height:46px;margin:8px 0 19px;max-width:370px}.card-meta{display:flex;gap:15px;color:#8891a1;font-size:11px;padding-bottom:19px;border-bottom:1px solid #eef0f5;margin-bottom:18px}.card-meta span{display:flex;gap:5px;align-items:center}.card-meta svg{height:14px;width:14px}.btn{display:inline-flex;justify-content:center;align-items:center;gap:10px;background:var(--blue);border:1px solid var(--blue);color:white;font-size:13px;font-weight:600;padding:11px 17px;min-height:42px;border-radius:7px}.btn:hover{background:#2648bf;box-shadow:0 3px 8px #3156d81a}.btn svg{width:16px;height:16px}.btn.secondary{background:white;border-color:#dfe4ee;color:#53617b}.btn.secondary:hover{background:#f6f8fd}.btn.light{background:#edf2ff;border-color:#e0e8ff;color:var(--blue)}.btn:disabled{opacity:.45}.wide{width:100%}.card-cta{justify-content:space-between;width:100%}.soon-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}.soon-card{background:#f9fafc;border:1px solid #e6e9ef;border-radius:9px;padding:16px;display:flex;align-items:center;gap:13px;color:#8e97a8}.soon-card svg{width:22px;height:22px;color:#929eaf}.soon-card h3{font-size:13px;font-weight:600;color:#778297;margin-bottom:6px;letter-spacing:0}.soon-card .badge{font-size:10px;padding:3px 6px}.quick-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.quick{background:white;border:1px solid var(--line);padding:17px 15px;border-radius:9px;display:flex;gap:10px;align-items:center;text-align:left;color:#536581;font-size:12px;font-weight:600}.quick svg{width:19px;color:#6981b9}.quick:hover{background:var(--light);border-color:#c7d4f6}.quick .arrow{margin-left:auto;width:14px;color:#9aa7bb}.footer{display:flex;justify-content:space-between;font-size:11px;color:#929cad;border-top:1px solid var(--line);padding-top:20px;margin-top:35px}.footer span{display:flex;gap:6px;align-items:center}.footer svg{width:13px;height:13px}.page-title{margin:3px 0 28px}.breadcrumb{display:flex;gap:9px;font-size:12px;color:#8a95a6;margin-bottom:22px;flex-wrap:wrap}.breadcrumb a:hover{color:var(--blue)}.tabs{display:flex;gap:27px;border-bottom:1px solid #dde3ee;margin:26px 0;overflow:auto}.tab{font-size:14px;color:#778397;padding:0 0 14px;white-space:nowrap;border-bottom:2px solid transparent}.tab.active{color:var(--blue);border-color:var(--blue);font-weight:600}.topic-row{display:flex;align-items:center;gap:20px;background:#fff;border:1px solid var(--line);border-radius:10px;margin-bottom:12px;padding:19px 22px}.topic-number{background:#f0f3fa;color:#7183a5;border-radius:8px;display:grid;place-items:center;width:44px;height:44px;font-size:14px;font-weight:600;flex-shrink:0}.topic-row h3{font-size:16px}.topic-row p{font-size:13px;color:var(--muted);margin:5px 0 0}.topic-row .btn{margin-left:auto;white-space:nowrap}.exam-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.exam-card{background:#fff;border:1px solid var(--line);border-radius:11px;padding:21px}.exam-card svg{color:#6e83ba;margin-bottom:14px}.exam-card h3{font-size:16px;margin-bottom:15px}.panel{padding:28px;border:1px solid var(--line);border-radius:12px;background:white;margin-bottom:22px}.panel h2{margin-bottom:16px}.panel p{color:#606e85}.study-layout{display:grid;grid-template-columns:minmax(0,1fr) 255px;gap:23px}.study-side{height:fit-content;position:sticky;top:25px}.study-side a{display:block;color:#75839b;padding:10px 0;font-size:14px}.concept-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.concept{border:1px solid #dfe6f5;background:#f8faff;border-radius:8px;padding:17px}.concept strong{color:#395aaf;font-size:15px}.concept p{font-size:13px;margin:8px 0 0}.definitions{margin:0}.definitions dt{font-weight:600;margin-top:15px}.definitions dd{color:#738099;margin:6px 0;line-height:1.6;font-size:14px}.example{border-left:3px solid #7594e7;background:#f2f6ff;padding:17px 20px;border-radius:0 8px 8px 0}.actions{display:flex;gap:12px;flex-wrap:wrap}.filters{display:flex;gap:12px;align-items:center;margin:20px 0}.select{background:#fff;border:1px solid #dbe2ee;border-radius:7px;padding:11px 35px 11px 13px;color:#54647f;font-size:14px;max-width:100%}.flash-wrap{max-width:780px;margin:32px auto}.flash-top{display:flex;justify-content:space-between;color:#7b88a0;font-size:13px;margin-bottom:15px}.flashcard{width:100%;min-height:320px;border:1px solid #dbe3f3;border-radius:16px;box-shadow:0 9px 35px #213a7410;background:white;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px;color:var(--navy)}.flashcard .eyebrow{font-size:11px}.flashcard h2{font-size:27px;max-width:590px;line-height:1.6}.flashcard .flip-hint{color:#93a0b7;font-size:13px;margin-top:40px;display:flex;align-items:center;gap:8px}.flash-actions{display:flex;justify-content:center;gap:15px;margin:23px 0}.flash-actions button{min-width:125px}.again{color:var(--red)!important;background:#fff5f5!important;border-color:#f0dadc!important}.know{color:var(--green)!important;background:#edf7f1!important;border-color:#d4eadd!important}.hint{text-align:center;font-size:12px;color:#8794a9}.quiz-layout{display:grid;grid-template-columns:minmax(0,1fr) 270px;gap:23px}.quiz-meta{display:flex;justify-content:space-between;font-size:13px;color:#6c7d99;margin-bottom:27px}.quiz-question{font-size:24px;line-height:1.6;margin:5px 0 28px}.option{display:flex;align-items:center;gap:14px;width:100%;text-align:left;padding:15px;margin:11px 0;border:1px solid #e1e6ef;background:#fff;border-radius:8px;color:#53617c;font-size:15px}.option span{width:30px;height:30px;display:grid;place-items:center;background:#f4f6fa;border-radius:5px;font-size:13px;color:#8a96aa}.option.selected{border-color:#5a7adf;background:#f2f5ff;color:#3156c2}.option.selected span{background:#3156d8;color:white}.option.correct{border-color:#74b395;background:#f0f9f4}.option.wrong{border-color:#d6959b;background:#fff2f3}.quiz-nav{display:grid;grid-template-columns:repeat(5,1fr);gap:9px;margin:20px 0}.qdot{border:1px solid #dfe5ee;background:white;aspect-ratio:1;border-radius:50%;color:#75839d;font-size:12px;min-width:0}.qdot.answered{background:#e9f0ff;color:#3156d8;border-color:#c7d6ff}.qdot.flagged{border-color:#c6983c;background:#fff7df;color:#9a6b0e}.qdot.current{outline:2px solid var(--blue);outline-offset:2px}.legend{display:flex;flex-wrap:wrap;gap:13px;color:#8a95a6;font-size:11px;line-height:1.8;margin-bottom:22px}.quiz-bottom{border-top:1px solid var(--line);margin-top:26px;padding-top:20px;display:flex;justify-content:space-between;gap:10px}.feedback{border-radius:8px;background:#edf8f1;color:#267851;padding:19px;margin-top:19px;font-size:14px;line-height:1.65}.feedback.wrong{background:#fff1f2;color:#ac4953}.feedback p{color:inherit;margin:6px 0 0}.score-panel{display:flex;align-items:center;gap:40px;background:#eef3ff;border-color:#dfe7fa}.score-ring{width:145px;height:145px;border-radius:50%;border:9px solid #cbd8fb;display:flex;align-items:center;justify-content:center;flex-direction:column;background:white;flex-shrink:0}.score-ring strong{font:800 34px Manrope;color:#3156d8}.score-ring span{font-size:12px;color:#8895ac;margin-top:4px}.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}.topic-pill{display:inline-block;padding:7px 11px;background:#f0f4fc;border-radius:5px;margin:5px 5px 5px 0;font-size:13px;color:#59709a}.step{display:flex;align-items:center;gap:20px}.step .btn{margin-left:auto;white-space:nowrap}.step p{font-size:14px;margin:7px 0 0}.step h3{font-size:18px}.search-results,.popover{position:absolute;background:#fff;border:1px solid var(--line);box-shadow:0 8px 35px #17264c15;border-radius:10px;padding:9px;top:60px;z-index:10;max-height:400px;overflow:auto}.search-results{width:410px;max-width:75vw;left:0}.search-results a{display:block;padding:12px;font-size:13px;border-radius:5px}.search-results a:hover{background:var(--light)}.search-results small{display:block;color:#8b97a8;margin-top:4px}.popover{right:70px;width:285px;padding:20px;font-size:14px}.popover p{font-size:13px;color:#7a879c}.empty{text-align:center;padding:55px 20px}.empty svg{width:40px;height:40px;color:#7291d4;margin-bottom:18px}.empty p{color:#7a879c;font-size:14px}.setting{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:18px 0;border-bottom:1px solid var(--line)}.setting:last-child{border:0}.setting input{padding:10px;border:1px solid #dbe1ed;border-radius:6px;max-width:220px}.setting small{display:block;color:#8995a8;margin-top:6px}#toast{position:fixed;bottom:30px;left:calc(50% + 100px);transform:translateX(-50%);background:#1c3055;color:white;padding:13px 23px;border-radius:9px;box-shadow:0 6px 25px #0002;z-index:50;font-size:14px;display:none}.notice{padding:13px 17px;background:#fff8e7;border:1px solid #f0dfb4;border-radius:8px;color:#8e711f;font-size:13px;margin:15px 0}.mini-header{display:flex;align-items:center;gap:16px}.mini-header .course-icon{width:58px;height:58px}.switchline{display:flex;align-items:center;gap:8px;color:#7d8ca3;font-size:12px}.bar{height:4px;background:#e8edf7;border-radius:5px;margin-top:17px;overflow:hidden}.bar div{height:100%;background:#7d97e7}.select-label{color:#7a879b;font-size:13px}.modebar{display:flex;gap:10px;margin-top:17px}.modebar .btn{font-size:12px}button{touch-action:manipulation}@media(min-width:1500px){main{padding-top:45px}.hero{padding:38px}.course-card{padding:29px}.soon-card{padding:20px}}@media(max-width:1150px){.sidebar{width:208px;padding:30px 13px}.shell{margin-left:208px}main{padding:30px 26px}.topbar{padding:0 26px}.hero-aside{display:none}.quick-grid{grid-template-columns:repeat(2,1fr)}.quiz-layout{grid-template-columns:minmax(0,1fr) 220px}.study-layout{grid-template-columns:1fr}.study-side{display:none}.exam-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:760px){.sidebar{width:73px;padding:25px 9px}.brand{padding:0;justify-content:center}.brand>span:last-child,.brand-sub,.nav-label,.nav-item span,.sidebar-note{display:none}.nav-item{padding:13px;justify-content:center}.sidebar nav{margin-top:28px}.shell{margin-left:73px}.topbar{height:70px;padding:0 18px;gap:8px}.top-right{gap:5px}.searchbox kbd,.divider{display:none}.searchbox input{font-size:12px}.topbar .lang{width:48px}.course-grid,.soon-grid,.quiz-layout,.summary-grid{grid-template-columns:1fr}main{padding:24px 18px}h1,.hero h1{font-size:27px}.hero{padding:23px}.hero p{font-size:13px}.footer{font-size:10px;gap:20px}.concept-grid{grid-template-columns:1fr 1fr}.topic-row{flex-wrap:wrap;padding:18px}.topic-row .btn{margin-left:64px}.score-panel{flex-direction:column;gap:20px;text-align:center}.step{flex-wrap:wrap}.step .btn{margin-left:64px}.flash-actions{gap:7px}.flash-actions button{min-width:0;flex:1}.flashcard{padding:25px}.flashcard h2{font-size:22px}.top-right .iconbtn{padding:4px}.avatar{width:31px;height:31px}.quiz-question{font-size:21px}.panel{padding:22px}.quick{font-size:11px;padding:13px 9px}.quick .arrow{display:none}.search-results{left:-12px}.setting{flex-wrap:wrap}#toast{left:55%;max-width:80vw}.hero-tag{font-size:10px}}
